@@ -1,0 +1,92 @@
+﻿  ConsoleApplication1.cpp
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\DataType.h(61,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\Header.h(114,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\Header.h(117,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\Header.h(120,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\Header.h(213,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\Header.h(216,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\Header.h(219,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\Header.h(251,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\Header.h(254,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(46,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(47,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(53,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(63,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(855,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(856,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(894,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(946,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(947,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(952,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(953,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1009,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1010,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1015,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1016,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1062,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1063,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1068,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1069,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1123,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1124,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1129,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1130,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1180,58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1181,58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1205,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1206,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1211,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1212,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1263,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1264,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1274,59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1275,57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1299,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1300,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1305,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1306,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1255,6): warning C4101: 'check_month': unreferenced local variable
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1254,6): warning C4101: 'check_day': unreferenced local variable
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1256,6): warning C4101: 'check_year': unreferenced local variable
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1352,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1353,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1394,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1395,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1405,59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1406,57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1430,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1431,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1436,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1437,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1495,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1496,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1501,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1502,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1578,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1579,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1584,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1585,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1602,20): warning C4244: 'initializing': conversion from '__int64' to 'float', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1603,27): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1670,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1671,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1677,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1678,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1694,23): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1741,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1742,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1752,59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1753,57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1778,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1779,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1785,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1786,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1732,6): warning C4101: 'check_month': unreferenced local variable
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1731,6): warning C4101: 'check_day': unreferenced local variable
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\SecondaryFunctions.h(1733,6): warning C4101: 'check_year': unreferenced local variable
+F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\ConsoleApplication1\DataType.h(113): warning C4715: 'getMonth': not all control paths return a value
+  ConsoleApplication1.vcxproj -> F:\projects\TeamProjectFinalSem\FinalProject_99442011_9\x64\Debug\ConsoleApplication1.exe
